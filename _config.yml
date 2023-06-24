@@ -1,7 +1,7 @@
 title:              Makey's Social Data Science
 email:              s213163@dtu.dk
-description:        Welcome to my webpage build for the course Social Data Analysis and Visualization 02806, Technical University of Denmark. My name is Thomas Adamopoulos, I'm a MSc Transport % Logistics student, and I'm here to tell you some awesome stories based on data visualization.
-author:             Thomas Adamopoulos
+description:        Welcome to my webpage build for the course Social Data Analysis and Visualization 02806, Technical University of Denmark. My name is Thomas Adamopoulos, I'm a MSc Transport & Logistics student, and I'm here to tell you some awesome stories based on data visualization.
+author:             Søren Blatt Bendtsen
 baseurl:            ""
 url:                ""
 
@@ -10,7 +10,7 @@ twitter_username:
 github_username:      GitMakey
 facebook_username:  
 instagram_username:  
-linkedin_profile:     https://www.linkedin.com/in/thomas-adamopoulos/
+linkedin_account:     https://www.linkedin.com/in/thomas-adamopoulos/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
